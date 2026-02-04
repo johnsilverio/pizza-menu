@@ -14,7 +14,7 @@ export default function Menu() {
 				<>
 					<p>
 						Authentic Italian cuisine. {numPizzas} creative dishes to choose
-						from. All from our stone oven, all organic, all deliciou	s.
+						from. All from our stone oven, all organic, all delicious.
 					</p>
 					<ul className="pizzas">
 						{pizzaData.map((pizza) => (
